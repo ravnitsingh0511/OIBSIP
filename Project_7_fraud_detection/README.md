@@ -26,5 +26,12 @@ Credit card transaction dataset containing anonymized transaction features and a
 ## Model Used
 Random Forest Classifier
 
+## Dataset
+
+Credit Card Fraud Detection Dataset
+
+Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Conclusion
+
 This project demonstrates how machine learning can be applied to detect fraudulent transactions and help identify suspicious financial activity.
